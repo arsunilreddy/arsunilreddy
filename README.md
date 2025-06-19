@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sunil Reddy Aramreddys
 
-<!--
-**arsunilreddy/arsunilreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Student | University of Missouri–Kansas City**  
+*Advisor: Dr. Reza Derakhshani*  
+*Start Date: January 2025*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Research Interests
+- Biometrics  
+- Artificial Intelligence (AI)  
+- Machine Learning (ML)
+
+---
+
+## 📌 About Me
+
+I am a first-year PhD student at the University of Missouri–Kansas City, working under the guidance of Dr. Reza Derakhshani. My research interests include Biometrics, Artificial Intelligence, and Machine Learning. I am currently engaged in foundational research and projects during my first semester to explore core methodologies and applications within these areas.
+
+---
+
+## 🚀 Current Project
+
+*(To be added — coming soon)*
+
+---
+
+## 📫 Contact
+
+- **Email:** *[your email here]*  
+- **GitHub:** *[your GitHub link]*  
+- **LinkedIn:** *[your LinkedIn profile]*  
+- **Google Scholar:** *[if applicable]*
+
